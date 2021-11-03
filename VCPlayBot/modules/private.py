@@ -59,10 +59,10 @@ async def start_(client: Client, message: Message):
                         "🔥 Owner", url=f"https://t.me/anujasupulsara")
                 ],[
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/sinhalacha"
+                        "👥 Official Group", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        📣 Owner Channel", url=f"https://t.me/musicworldanu")
+                        📣 Owner Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
                         "🎲 Source Code 🎲", url="https://github.com/anuja2003"
